@@ -1,3 +1,5 @@
+      ### DATABASE ###
+
 CREATE DATABASE MoodleDB
 COLLATE Latin1_General_CS_AS;
 GO
@@ -19,3 +21,10 @@ GO
 
 ALTER ROLE db_owner ADD MEMBER moodle_user;
 GO
+
+
+      
+
+#### MOODLE ####
+
+admin: ARSEG_MLS_#2026#
